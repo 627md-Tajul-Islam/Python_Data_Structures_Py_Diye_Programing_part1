@@ -27,3 +27,7 @@ print(list) # ranked from last to fast
 li = ["mango","banana","orange"]
 li.reverse()
 print(li) # reversd
+
+li = ["mango","banana","orange"]
+li.insert(0,"apple") # adds in the 1st index
+print(li)
