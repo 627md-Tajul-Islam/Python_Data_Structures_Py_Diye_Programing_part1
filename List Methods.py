@@ -1,4 +1,7 @@
 saarc = ["Bangladesh", "India", "Srilanka","Bhutan", "Pakistan", "Nepal"]
 print(saarc)
-saarc = saarc.append("Afghanistan")
+saarc.append("Afghanistan")
 print(saarc) # append method to put something
+
+saarc = saarc.sort()
+print(saarc)
