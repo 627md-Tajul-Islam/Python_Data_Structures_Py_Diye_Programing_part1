@@ -41,3 +41,4 @@ print(li)
 friends = ["Rakib","alve","tuhin","likhon","sabit"]
 friends.remove("tuhin")
 print(friends) # removes an element
+
