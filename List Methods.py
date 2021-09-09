@@ -59,3 +59,8 @@ friends = ["Rakib","alve","tuhin","likhon","sabit"]
 item = friends.pop()
 print(item)
 print(friends) # returns only the last element and clears the same element from the list
+
+friends = ["Rakib","alve","tuhin","likhon","sabit"]
+item = friends.pop(1) # we can also set the index number
+print(item)
+print(friends)
