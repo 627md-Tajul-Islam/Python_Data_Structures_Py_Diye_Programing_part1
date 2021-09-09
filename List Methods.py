@@ -3,5 +3,5 @@ print(saarc)
 saarc.append("Afghanistan")
 print(saarc) # append method to put something
 
-saarc = saarc.sort()
+saarc.sort()
 print(saarc)
