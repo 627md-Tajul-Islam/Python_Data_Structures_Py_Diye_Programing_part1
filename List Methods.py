@@ -47,3 +47,9 @@ friends = ["Rakib","alve","tuhin","likhon","sabit"]
 friends.remove("tajul")
 """  # it will throw an error cause the element is not in the list
 
+friends = ["Rakib","alve","tuhin","likhon","sabit"]
+name = "Rakib"
+if name in friends:
+    remove(name)
+else:
+    print(name, "Not in list")
