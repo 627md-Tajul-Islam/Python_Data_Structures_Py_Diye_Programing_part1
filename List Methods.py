@@ -14,11 +14,6 @@ print(list) # ranked from 1st to last
 a=[1,2,3,4,5]
 b=a+[6,7,8,9,10]
 print(b) # adding 2 lists
-# another off
-a=[1,2,3,4,5]
-b=[6,7,8,9,10]
-a.extend(b)
-print(a)
 
 list = [10,34,35,43,56456,456,35,3,2354,23]
 list.reverse()
@@ -64,3 +59,4 @@ friends = ["Rakib","alve","tuhin","likhon","sabit"]
 item = friends.pop(1) # we can also set the index number
 print(item)
 print(friends)
+
