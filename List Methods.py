@@ -35,3 +35,5 @@ print(li)
 li = ["mango","banana","orange"]
 li.insert(2,"apple") # we can mention the index number so that the index can take place
 print(li)
+
+# insert(index,item)
