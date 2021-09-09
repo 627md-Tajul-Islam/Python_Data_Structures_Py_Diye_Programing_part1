@@ -32,3 +32,6 @@ li = ["mango","banana","orange"]
 li.insert(0,"apple") # adds in the 1st index, need 2 arguements
 print(li)
 
+li = ["mango","banana","orange"]
+li.insert(2,"apple") # we can mention the index number so that the index can take place
+print(li)
