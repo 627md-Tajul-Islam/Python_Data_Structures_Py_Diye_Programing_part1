@@ -29,5 +29,6 @@ li.reverse()
 print(li) # reversd
 
 li = ["mango","banana","orange"]
-li.insert(0,"apple") # adds in the 1st index
+li.insert(0,"apple") # adds in the 1st index, need 2 arguements
 print(li)
+
