@@ -24,6 +24,6 @@ list = [10,34,35,43,56456,456,35,3,2354,23]
 list.reverse()
 print(list) # ranked from last to fast
 
-li = ["orange","mango","banana"]
+li = ["mango","banana","orange"]
 li.reverse()
-print(li)
+print(li) # reversd
