@@ -19,3 +19,11 @@ a=[1,2,3,4,5]
 b=[6,7,8,9,10]
 a.extend(b)
 print(a)
+
+list = [10,34,35,43,56456,456,35,3,2354,23]
+list.reverse()
+print(list) # ranked from last to fast
+
+li = ["orange","mango","banana"]
+li.reverse()
+print(li)
