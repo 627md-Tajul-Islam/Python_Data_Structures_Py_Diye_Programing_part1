@@ -58,3 +58,4 @@ else:
 friends = ["Rakib","alve","tuhin","likhon","sabit"]
 item = friends.pop()
 print(item)
+print(friends) # returns only the last element and clears the same element from the list
