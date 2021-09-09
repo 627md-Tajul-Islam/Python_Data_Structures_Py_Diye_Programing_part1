@@ -11,6 +11,11 @@ list.sort()
 print(list) # ranked from 1st to last
 
 # off topic
-a=[1,2,3,4,5,6,7,8]
-b=a+[9,10,11,12]
+a=[1,2,3,4,5]
+b=a+[6,7,8,9,10]
 print(b) # adding 2 lists
+# another off
+a=[1,2,3,4,5]
+b=[6,7,8,9,10]
+a.extend(b)
+print(a)
