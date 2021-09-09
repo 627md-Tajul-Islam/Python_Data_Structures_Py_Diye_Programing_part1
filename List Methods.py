@@ -1,2 +1,2 @@
-Saarc = ["Bangladesh", "India", "Srilanka","Bhutan", "Pakistan", "Nepal"]
-print(Saarc)
+saarc = ["Bangladesh", "India", "Srilanka","Bhutan", "Pakistan", "Nepal"]
+print(saarc)
