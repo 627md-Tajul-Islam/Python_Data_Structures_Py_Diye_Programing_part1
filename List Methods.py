@@ -37,3 +37,7 @@ li.insert(2,"apple") # we can mention the index number so that the index can tak
 print(li)
 
 # insert(index,item)
+
+friends = ["Rakib","alve","tuhin","likhon","sabit"]
+friends.remove("tuhin")
+print(friends) # removes an element
