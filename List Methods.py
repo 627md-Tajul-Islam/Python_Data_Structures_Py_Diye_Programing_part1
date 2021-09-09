@@ -42,3 +42,5 @@ friends = ["Rakib","alve","tuhin","likhon","sabit"]
 friends.remove("tuhin")
 print(friends) # removes an element
 
+friends = ["Rakib","alve","tuhin","likhon","sabit"]
+friends.remove("tajul")
