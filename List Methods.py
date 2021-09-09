@@ -60,3 +60,7 @@ item = friends.pop(1) # we can also set the index number
 print(item)
 print(friends)
 
+a=[1,2,3,4,5]
+b=[6,7,8,9,10]
+a.extend(b) # we can add list using extend methods
+print(a)
