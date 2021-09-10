@@ -71,4 +71,14 @@ print(a) # counts the element
 
 li = [1,1,2,3,4,5,6,7,7,8,]
 del(li[1])
-print(li)
+print(li) # delete function
+
+
+
+
+
+
+
+
+
+
