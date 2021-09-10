@@ -88,8 +88,13 @@ l1 = [1,2,3]
 l2 = l1 * 3
 print(l2)
 
-
+# this will throw an error
+""" 
 l1 = [1,2,3]
 l2 = [4,5,6]
 l3 = l1 * l2
 print(l3)
+"""
+
+li = ["a","b","c"]
+print(li)
