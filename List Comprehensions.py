@@ -13,4 +13,4 @@ even_number = []
 for x in li:
     if x % 2 == 0:
         even_number.append(x)
-print(even_number)
+print(even_number) # without list comprehension
