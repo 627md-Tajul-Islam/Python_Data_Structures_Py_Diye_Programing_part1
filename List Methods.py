@@ -76,4 +76,5 @@ print(li) # delete function
 li = []
 for x in range(10):
     li.append(x)
-print(li)
+print(li) # empty list
+
