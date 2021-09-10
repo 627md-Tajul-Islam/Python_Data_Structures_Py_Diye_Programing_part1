@@ -14,3 +14,6 @@ for x in li:
     if x % 2 == 0:
         even_number.append(x)
 print(even_number) # without list comprehension
+
+even_number = [x for x in range(1,11) if x %2 ==0]
+print(even_number)
