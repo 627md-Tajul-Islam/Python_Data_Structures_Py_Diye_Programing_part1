@@ -78,3 +78,9 @@ for x in range(10):
     li.append(x)
 print(li) # empty list
 
+#adding list
+l1 = [1,2,3]
+l2 = [4,5,6]
+l3 = l1 + l2
+print(l3)
+# added successfully
