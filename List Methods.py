@@ -98,3 +98,6 @@ print(l3)
 
 li = ["a","b","c"]
 print(li)
+str = "".join(li) # print all the strings of a list together
+print(str)
+
