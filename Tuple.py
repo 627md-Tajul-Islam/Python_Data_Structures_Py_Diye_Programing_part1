@@ -6,3 +6,7 @@ print(a)
 x = 1
 a = type(x)
 print(a)
+
+x = 1,
+a = type(x)
+print(a)
