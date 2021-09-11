@@ -27,3 +27,5 @@ print(li) # lists can change
 
 tuple = (1,2,3,4,5)
 print(tuple)
+#tuple[0] = 100 tuple cant change
+#print(tuple) 'tuple' object does not support item assignment
