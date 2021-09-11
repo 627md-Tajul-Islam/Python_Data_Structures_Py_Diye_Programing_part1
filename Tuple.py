@@ -38,3 +38,4 @@ t = n1,n2
 print(t) # we can also unpack it
 
 items = (1,2,3,4,5,6.5,["a","b","c"], ("apple", "mango"))
+for item in items
