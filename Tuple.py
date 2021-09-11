@@ -19,3 +19,6 @@ print(t)
 tpl = (1,2,3,4,5)
 a = tpl[0]
 print(a)
+
+li = [1,2,3,4,5]
+print(li)
