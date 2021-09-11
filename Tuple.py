@@ -33,3 +33,6 @@ print(tuple)
 nums = (1,2,3,4)
 n1,n2,n3,n4 = nums
 print(n1)
+
+t = n1,n2
+print(t)
