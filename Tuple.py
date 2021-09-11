@@ -23,3 +23,4 @@ print(a)
 li = [1,2,3,4,5]
 print(li)
 li[0] = 100
+print(li) # lists can change
