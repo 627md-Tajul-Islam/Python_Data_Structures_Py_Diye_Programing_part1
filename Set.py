@@ -21,3 +21,4 @@ B = set(tpl)
 print(B)
 
 # ulta palta
+A = set("BANGLADESH")
