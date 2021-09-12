@@ -9,3 +9,6 @@ B = type(A)
 print(B)
 
 items = {"laptop","cellphone","pc","glass"}
+print(items)
+B = type(items)
+print(B)
