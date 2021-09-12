@@ -29,3 +29,6 @@ print(B)
 B = set("Sri Lanka")
 print(B)
 
+A = {1,2,3}
+B = 1 in A
+print(B)
