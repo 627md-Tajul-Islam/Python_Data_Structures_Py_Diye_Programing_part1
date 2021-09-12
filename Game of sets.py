@@ -7,3 +7,5 @@ print(C)
 # Union, it means all together
 D = A | B
 print(D)
+
+# Inverse, it means
