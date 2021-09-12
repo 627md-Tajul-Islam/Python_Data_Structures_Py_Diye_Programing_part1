@@ -14,6 +14,6 @@ print(D)
 E = A ^ B
 print(E)
 
-# Subtraction
+# Subtraction, it is visible to only one set
 F = A - B
 print(F)
