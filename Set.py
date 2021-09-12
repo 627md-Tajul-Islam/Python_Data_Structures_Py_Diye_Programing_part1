@@ -20,3 +20,4 @@ print(A)
 B = set(tpl)
 print(B)
 
+# ulta palta
