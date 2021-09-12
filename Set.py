@@ -23,3 +23,5 @@ print(B)
 # ulta palta
 A = set("BANGLADESH")
 print(A)
+B = type(A)
+print(B)
