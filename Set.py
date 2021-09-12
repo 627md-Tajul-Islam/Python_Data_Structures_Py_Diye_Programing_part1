@@ -6,3 +6,5 @@ B = {6,7,8,9,10}
 
 A = set()
 print(A)
+B = type(A)
+print(B)
