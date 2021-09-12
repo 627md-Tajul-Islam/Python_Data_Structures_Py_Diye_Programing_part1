@@ -22,3 +22,4 @@ print(B)
 
 # ulta palta
 A = set("BANGLADESH")
+print(A)
