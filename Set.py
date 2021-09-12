@@ -32,3 +32,5 @@ print(B)
 A = {1,2,3}
 B = 1 in A
 print(B)
+C = 5 in A
+print(C)
