@@ -8,4 +8,6 @@ print(C)
 D = A | B
 print(D)
 
-# Inverse, it means
+# Inverse, it means only one element in one set
+E = A ^ B
+print(E)
