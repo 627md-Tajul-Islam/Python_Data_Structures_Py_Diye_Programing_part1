@@ -34,4 +34,3 @@ B = 1 in A
 print(B)
 C = 5 in A
 print(C)
-
