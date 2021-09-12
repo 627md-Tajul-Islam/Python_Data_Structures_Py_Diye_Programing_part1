@@ -19,3 +19,4 @@ A = set(li)
 print(A)
 B = set(tpl)
 print(B)
+
