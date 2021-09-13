@@ -18,3 +18,5 @@ Marks = {
     4:78,
     5:62
 }
+a = type(Marks)
+print(a)
