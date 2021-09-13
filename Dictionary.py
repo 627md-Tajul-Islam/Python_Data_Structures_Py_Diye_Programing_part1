@@ -49,3 +49,4 @@ b = Marks["A1"]
 print(b)
 
 dic = {}
+print(dic)
