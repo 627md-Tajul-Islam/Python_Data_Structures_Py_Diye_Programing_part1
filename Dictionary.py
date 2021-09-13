@@ -39,9 +39,11 @@ print(b)
 
 # does not matter if its not a number
 Marks = {
-    A: 90,
-    B: 80,
-    C: 70,
-    D: 50,
-    E: 60,
+    "A1": 90,
+    "B2": 60,
+    "C3": 80,
+    "D4": 50,
+    "E5": 30,
 }
+b = Marks["A1"]
+print(b)
