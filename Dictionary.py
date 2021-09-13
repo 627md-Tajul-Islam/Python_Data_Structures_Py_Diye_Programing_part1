@@ -58,3 +58,9 @@ print(dic)
 
 dic[2] = "two" # inserting a value
 print(dic)
+
+dic = {
+    "a": "A",
+    "b": "B",
+    "c": "C"
+}
