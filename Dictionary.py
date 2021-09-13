@@ -26,3 +26,13 @@ b = Marks[4]
 print(b)
 
 # does not maintain maintained sequence
+
+Marks = {
+   500: 90,
+   200: 80,
+   100: 70,
+   400: 50,
+   300: 60,
+}
+b = Marks[400]
+print(b)
