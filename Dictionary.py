@@ -15,8 +15,10 @@ Marks = {
     1:77,
     2:76,
     3:65,
-    4:78,
-    5:62
+    5:62,
+    4:78
 }
 a = type(Marks)
 print(a)
+b = Marks[4]
+print(b)
