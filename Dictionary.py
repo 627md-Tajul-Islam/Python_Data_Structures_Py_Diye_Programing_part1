@@ -50,3 +50,5 @@ print(b)
 
 dic = {}
 print(dic)
+a = type(dic)
+print(a)
