@@ -52,3 +52,5 @@ dic = {}
 print(dic)
 a = type(dic)
 print(a)
+dic[1] = "one" # inserting a number
+print(dic)
