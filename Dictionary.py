@@ -36,3 +36,12 @@ Marks = {
 }
 b = Marks[400]
 print(b)
+
+# does not matter if its not a number
+Marks = {
+    A: 90,
+    B: 80,
+    C: 70,
+    D: 50,
+    E: 60,
+}
