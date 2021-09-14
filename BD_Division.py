@@ -30,3 +30,6 @@ for division in divisions:
     print("#",division)
 
 # key and value
+for key in bd_division_info:
+    print(key)
+    print(bd_division_info[key])
