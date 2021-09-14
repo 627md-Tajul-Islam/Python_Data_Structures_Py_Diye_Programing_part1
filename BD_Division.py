@@ -33,3 +33,4 @@ for division in divisions:
 for key in bd_division_info:
     print(key)
     print(bd_division_info[key])
+
