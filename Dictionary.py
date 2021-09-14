@@ -93,3 +93,4 @@ marks = {
 }
 print(marks)
 print(marks["one101"]) # default numbers
+print(marks["two102"]["English"]) # specific number
