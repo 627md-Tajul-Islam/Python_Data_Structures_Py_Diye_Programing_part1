@@ -19,3 +19,5 @@ bd_division_info["Dhaka"] = {
     "union":1833
 }
 print(bd_division_info)
+
+# just name using key method
