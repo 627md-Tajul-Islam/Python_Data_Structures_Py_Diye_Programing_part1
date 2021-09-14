@@ -37,3 +37,4 @@ for key in bd_division_info:
 # 2nd way
 for key, value in bd_division_info.items():
     print(key)
+    print(value)
