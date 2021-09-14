@@ -82,7 +82,7 @@ li = [1,2,3]
 
 # set can not be added
 set = {1,2,3}
-dt[set] = "set"
-print((dt))
+#dt[set] = "set"
+#print((dt))
 
 
