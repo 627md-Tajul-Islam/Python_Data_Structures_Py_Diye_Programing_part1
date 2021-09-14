@@ -23,3 +23,8 @@ print(bd_division_info)
 # just name using key method
 divisions = bd_division_info.keys()
 print(divisions)
+
+# loop on keys
+
+for division in divisions:
+    print("#",division)
