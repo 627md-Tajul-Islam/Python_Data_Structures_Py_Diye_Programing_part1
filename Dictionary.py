@@ -81,6 +81,8 @@ li = [1,2,3]
 #print[dt]
 
 # set can not be added
-
+set = {1,2,3}
+dt[set] = "set"
+print((dt))
 
 
