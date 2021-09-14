@@ -97,4 +97,3 @@ print(marks["two102"]["English"]) # specific number
 
 marks["three103"] = {"Bangla":74,"English":93} # updating
 print(marks)
-
