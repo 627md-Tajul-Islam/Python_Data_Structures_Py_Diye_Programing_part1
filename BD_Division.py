@@ -18,3 +18,4 @@ bd_division_info["Dhaka"] = {
     "upzilla": 59,
     "union":1833
 }
+print(bd_division_info)
