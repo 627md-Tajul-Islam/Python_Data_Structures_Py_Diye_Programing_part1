@@ -34,3 +34,6 @@ for key in bd_division_info:
     print(key)
     print(bd_division_info[key])
 
+# 2nd way
+for key, value in bd_division_info.items():
+    print(key)
