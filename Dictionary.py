@@ -86,3 +86,9 @@ set = {1,2,3}
 #print((dt))
 
 # marks of dual sub
+marks = {
+    "one101" : {"Bangla":74,"English":73},
+    "two102" : {"Bangla":70,"English":83},
+    "three103" : {"Bangla":54,"English":63},
+}
+print(marks)
