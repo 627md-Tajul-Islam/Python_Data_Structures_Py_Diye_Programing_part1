@@ -28,3 +28,5 @@ print(divisions)
 
 for division in divisions:
     print("#",division)
+
+# key and value
