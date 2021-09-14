@@ -92,4 +92,4 @@ marks = {
     "three103" : {"Bangla":54,"English":63},
 }
 print(marks)
-print(marks["one101"])
+print(marks["one101"]) # default numbers
