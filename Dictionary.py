@@ -66,10 +66,19 @@ dic = {
 }
 #a=dic["e"] it will produce an error
 
-
+# tuple can be inserted
 dt = {
     "a":"A",
     "b":"B",
     "c":"C",
 }
 dt[(1,2,3)] = "tuple"
+print(dt)
+
+
+
+
+
+
+
+
