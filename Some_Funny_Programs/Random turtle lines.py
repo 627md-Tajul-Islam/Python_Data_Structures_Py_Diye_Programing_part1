@@ -6,4 +6,5 @@ for i in range(100):
     y = random.randint(-200, 200)
     turtle.setposition(x,y)
     turtle.dot()
+
 turtle.done()
