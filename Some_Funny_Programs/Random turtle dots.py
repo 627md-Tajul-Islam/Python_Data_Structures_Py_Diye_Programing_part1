@@ -8,3 +8,5 @@ for i in range(100):
     y = random.randint(-200, 200)
     turtle.set_position(x,y)
     turtle.dot()
+
+turtle.done()
