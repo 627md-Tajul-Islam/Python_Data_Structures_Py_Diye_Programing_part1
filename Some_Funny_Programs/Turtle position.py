@@ -9,3 +9,7 @@ print(c)
 d = turtle.left(90)
 e = turtle.position()
 print(e)
+
+f = turtle.forward(50)
+g = turtle.position()
+print(g)
