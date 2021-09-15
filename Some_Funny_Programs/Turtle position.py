@@ -13,3 +13,7 @@ print(e)
 f = turtle.forward(50)
 g = turtle.position()
 print(g)
+
+f = turtle.forward(50)
+g = turtle.position()
+print(g)
