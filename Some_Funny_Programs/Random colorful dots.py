@@ -14,3 +14,4 @@ for i in range(100):
     turtle.set_position(x,y)
 # set a random color
     i = random.randint(0, len(colors)-1)
+    turtle.dot(colors[i])    
