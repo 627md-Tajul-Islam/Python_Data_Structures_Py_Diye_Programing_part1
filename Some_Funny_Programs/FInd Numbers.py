@@ -17,3 +17,4 @@ while True:
         print("Incorrect,give a bigger number")
 
 print("You tried", attempts, "times to find the correct number")
+# its working man
