@@ -16,9 +16,11 @@ while True:
         break
     if input_number > number:
         print("Incorrect, give a smaller number")
+        high = input_number - 1
 
     else:
         print("Incorrect,give a bigger number")
+        low = input_number + 1
 
 print("You tried", attempts, "times to find the correct number")
 # its working man
