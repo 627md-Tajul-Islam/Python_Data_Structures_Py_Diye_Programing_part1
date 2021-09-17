@@ -11,3 +11,5 @@ while True:
     if input_number == number:
         print("Its Correct")
         break
+    if input_number > number:
+        print
