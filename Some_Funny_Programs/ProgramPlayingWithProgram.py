@@ -7,4 +7,4 @@ high = 1000
 
 while True:
     print("Guess between 1-1000: ")
-    input_number = (low + high) // 2
+    input_number = (low + high) // 2 # only integer version
