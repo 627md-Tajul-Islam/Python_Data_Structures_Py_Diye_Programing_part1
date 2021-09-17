@@ -15,4 +15,7 @@ while True:
     if number == 0:
         break
     prime = is_prime2(number)
-
+    if prime is True:
+        print(number,"is a prime number")
+    else:
+        print(number,"is not a prime number")
