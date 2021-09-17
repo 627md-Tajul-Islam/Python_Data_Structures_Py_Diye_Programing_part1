@@ -8,3 +8,6 @@ def is_prime1(n):
             prime = False
             return prime
     return prime
+
+while True:
+    number = input("Please enter a number (enter 0 to exit): ")
