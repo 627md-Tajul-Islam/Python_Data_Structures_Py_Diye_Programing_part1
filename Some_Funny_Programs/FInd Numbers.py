@@ -8,3 +8,6 @@ while True:
     input_number = int(input_number)
     attempts += 1
 
+    if input_number == number:
+        print("Its Correct")
+        break
