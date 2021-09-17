@@ -10,3 +10,15 @@ while True:
     input_number = (low + high) // 2 # only integer version
     print("My guess is", input_number)
     attempts += 1
+
+    if input_number == number:
+        print("Its Correct")
+        break
+    if input_number > number:
+        print("Incorrect, give a smaller number")
+
+    else:
+        print("Incorrect,give a bigger number")
+
+print("You tried", attempts, "times to find the correct number")
+# its working man
