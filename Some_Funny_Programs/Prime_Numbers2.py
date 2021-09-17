@@ -7,3 +7,4 @@ def is_prime1(n):
             print(n, "is divisible by", x)
             prime = False
             return prime
+    return prime
