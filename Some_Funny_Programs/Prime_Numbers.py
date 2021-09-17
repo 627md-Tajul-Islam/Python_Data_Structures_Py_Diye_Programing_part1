@@ -13,3 +13,6 @@ while True:
     number = int(number)
     if number == 0:
         break
+    prime = is_prime1(number)
+    if prime is True:
+        print(number, "is a prime number.")
