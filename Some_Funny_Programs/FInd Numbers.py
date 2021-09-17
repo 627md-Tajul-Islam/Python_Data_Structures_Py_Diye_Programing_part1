@@ -13,3 +13,7 @@ while True:
         break
     if input_number > number:
         print("Incorrect, give a smaller number")
+    else:
+        print("Incorrect,give a bigger number")
+
+print("You tried", attempts, "times to find the correct number")
