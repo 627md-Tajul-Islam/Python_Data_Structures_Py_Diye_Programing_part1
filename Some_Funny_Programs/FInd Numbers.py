@@ -12,4 +12,4 @@ while True:
         print("Its Correct")
         break
     if input_number > number:
-        print
+        print("Incorrect, give a smaller number")
