@@ -11,3 +11,5 @@ def is_prime1(n):
 while True:
     number = input("Please enter a number (press 0 to exit): ")
     number = int(number)
+    if number == 0:
+        break
