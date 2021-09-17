@@ -19,4 +19,4 @@ while True:
     else:
         print(number, "is not a prime number")
 
-print("DOne")
+print("Program Terminated man")
