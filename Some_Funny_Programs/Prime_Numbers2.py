@@ -1,4 +1,4 @@
-def is_prime1(n):
+def is_prime2(n):
     if n < 2:
         return False
     prime = True
@@ -12,3 +12,7 @@ def is_prime1(n):
 while True:
     number = input("Please enter a number (enter 0 to exit): ")
     number = int(number)
+    if number == 0:
+        break
+    prime = is_prime2(number)
+
