@@ -5,5 +5,6 @@ attempts = 0
 low = 1
 high = 1000
 
-while  True:
+while True:
     print("Guess between 1-1000: ")
+    input_number = (low + high) // 2
