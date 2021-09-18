@@ -12,3 +12,7 @@ else:
         i += 1
         fib_temp = fib_x + fib_next
         fib_x = fib_temp
+
+    fib_n = fib_next
+
+print(fib_n)
