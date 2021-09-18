@@ -1,3 +1,4 @@
 def is_prime3(n):
     if n == 2:
-        return True
+        return True # 2 is prime
+    if n % 2 == 0:
