@@ -26,6 +26,7 @@ def is_prime3(n = 1013):
         return prime
 
 import timeit
+t1 = timeit.timeit(is_prime3)
 
 
 
