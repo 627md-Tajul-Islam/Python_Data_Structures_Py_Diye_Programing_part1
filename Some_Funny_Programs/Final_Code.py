@@ -18,3 +18,21 @@ def is_prime3(n = 1013):
         return True # 2 is prime
     if n % 2 == 0:
         return False # numbers less than 2 are not prime
+    prime = True
+    for x in range(3,n,2):
+        if n % x == 0:
+            prime = False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
