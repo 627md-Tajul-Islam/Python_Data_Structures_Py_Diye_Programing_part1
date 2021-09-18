@@ -22,6 +22,10 @@ def is_prime3(n = 1013):
     for x in range(3,n,2):
         if n % x == 0:
             prime = False
+            return prime
+        return prime
+
+import timeit
 
 
 
