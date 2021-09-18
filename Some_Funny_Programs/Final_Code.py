@@ -13,6 +13,7 @@ def is_prime4(n=1013):
         return False
     return True
 
-def is_prime3(n = 1013)
+def is_prime3(n = 1013):
     if n == 2:
         return True # 2 is prime
+
