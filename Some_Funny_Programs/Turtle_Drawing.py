@@ -1,3 +1,4 @@
+"""
 import turtle
 turtle.color('red','green')
 turtle.begin_fill()
@@ -10,3 +11,4 @@ while True:
 
 turtle.end_fill()
 turtle.done()
+"""
