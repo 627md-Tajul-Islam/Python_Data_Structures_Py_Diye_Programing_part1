@@ -6,3 +6,12 @@ for element in list:
         cnt[element] = 1
     else:
         cnt[element] += 1
+
+
+cnt = {
+    1:3,
+    2:4,
+    3:3,
+    4:2,
+    5:1
+}
