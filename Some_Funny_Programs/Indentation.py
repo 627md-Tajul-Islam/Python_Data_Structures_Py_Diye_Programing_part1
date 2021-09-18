@@ -4,3 +4,5 @@ for element in li:
     if element not in cnt.keys():
         print("Found New Element")
         cnt[element] = 1
+    else:
+        cnt[element] += 1
