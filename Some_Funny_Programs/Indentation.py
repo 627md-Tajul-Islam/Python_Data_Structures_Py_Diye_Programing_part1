@@ -15,3 +15,8 @@ cnt = {
     4:2,
     5:1
 }
+cnt2 = {}
+for element in list:
+    if element not in cnt2.keys():
+        cnt2[element] = 0
+        print("Found New Element")
