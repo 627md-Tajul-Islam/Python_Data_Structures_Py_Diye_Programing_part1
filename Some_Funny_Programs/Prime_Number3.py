@@ -7,3 +7,4 @@ def is_prime3(n):
 
     if n < 2:
         return False # numbers less than 2 are not prime
+    prime = True
