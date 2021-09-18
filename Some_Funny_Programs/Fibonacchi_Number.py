@@ -8,4 +8,7 @@ if n <= 2:
     fib_n = 1
 else:
     i = 3
-    while
+    while i <= n:
+        i += 1
+        fib_temp = fib_x + fib_next
+        fib_x = fib_temp
