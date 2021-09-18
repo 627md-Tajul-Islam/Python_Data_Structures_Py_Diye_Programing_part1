@@ -1,6 +1,6 @@
 import math
 
-def is_prime5(n=1013):
+def is_prime4(n=1013):
     if n < 2:
         return False
     if n == 2:
@@ -12,3 +12,5 @@ def is_prime5(n=1013):
     for x in range(3,m,2):
         return False
     return True
+
+def is_prime3
