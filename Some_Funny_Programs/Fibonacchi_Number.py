@@ -3,3 +3,9 @@ fib_next = 1
 
 n = input()
 n = int(n)
+
+if n <= 2:
+    fib_n = 1
+else:
+    i = 3
+    while
