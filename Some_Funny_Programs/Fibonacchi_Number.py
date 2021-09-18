@@ -10,9 +10,11 @@ else:
     i = 3
     while i <= n:
         i += 1
+        """ 
         fib_temp = fib_x + fib_next
         fib_x = fib_temp
-
+        """
+        fib_next, fib_x = fib_next + fib_x, fib_next
     fib_n = fib_next
 
 print(fib_n)
