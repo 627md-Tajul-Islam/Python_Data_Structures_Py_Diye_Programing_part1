@@ -9,3 +9,4 @@ def is_prime3(n):
         return False # numbers less than 2 are not prime
     prime = True
     for x in range(3,n,2):
+        print(n, "is divisible by", x)
