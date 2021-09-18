@@ -16,4 +16,5 @@ def is_prime4(n=1013):
 def is_prime3(n = 1013):
     if n == 2:
         return True # 2 is prime
-
+    if n % 2 == 0:
+        return False # numbers less than 2 are not prime
