@@ -27,6 +27,7 @@ def is_prime3(n = 1013):
 
 import timeit
 t1 = timeit.timeit(is_prime3)
+t2 = timeit.timeit(is_prime4)
 
 
 
