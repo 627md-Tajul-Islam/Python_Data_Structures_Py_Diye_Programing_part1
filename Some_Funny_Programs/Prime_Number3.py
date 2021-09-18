@@ -10,3 +10,6 @@ def is_prime3(n):
     prime = True
     for x in range(3,n,2):
         print(n, "is divisible by", x)
+        prime = False
+        return prime
+    return prime
