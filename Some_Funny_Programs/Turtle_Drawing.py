@@ -9,3 +9,4 @@ white True:
         break
 
 turtle.end_fill()
+turtle.done()
