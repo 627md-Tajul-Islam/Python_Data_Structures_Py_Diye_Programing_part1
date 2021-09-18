@@ -7,3 +7,5 @@ def is_prime5(n=1013):
         return
     if n % 2 == 0:
         return False
+    m = math.sqrt(n)
+    m = int(m) + 1
